@@ -1,4 +1,6 @@
-const hello = () => {
-  console.log("Hello Node.js!");
+const Hello = "Hello Github!";
+const retrunHello = () => {
+  console.log(Hello);
 };
-hello();
+
+retrunHello();
